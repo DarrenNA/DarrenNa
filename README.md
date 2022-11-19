@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+;+My+name+is+Darren !+😄;Nice+to+meet+you!&center=true&size=30">
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A00FF&center=true&vCenter=true&width=435&lines=Hi+%2C+My+name+is+Darren+%F0%9F%98%84;Welcome+to+my+Github+page++!" alt="Typing SVG" /></a>
 </h1>
 ### Welcome to my github page 🌌 
 
