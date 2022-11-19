@@ -49,11 +49,12 @@
   <code><img title="Javascript" height="25" src="img/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="img/html5.svg"></code>
   <code><img title="CSS" height="25" src="img/css.svg"></code>
+  <code><img title="MySQL" height="25" src="img/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="img/php.svg"></code>
   <code><img title="React" height="25" src="img/react-original.svg"></code>
   <code><img title="Git" height="25" src="img/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="img/github.svg"></code>
-  <code><img title="MySQL" height="25" src="img/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="img/php.svg"></code>
+  
 </p>
 <hr>
 
