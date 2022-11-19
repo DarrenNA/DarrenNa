@@ -13,9 +13,9 @@
 
 <p align="center">
 
-  💻 I love writing code and learn anything about it
+  💻 I love writing code and learning new things
   <br>
-  👨‍💻I am currently learning Quantum Computing autonomously with IBM Qiskit 
+  👨‍💻I am currently learning Quantum Computing autonomously with IBM Qiskit Textbook and Courses
   <br>
   📫 How to reach me : <a href="mailto: darrenndouongo@gmail.com">darrenndouongo@gmail.com</a>
   <br>
