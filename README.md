@@ -1,5 +1,5 @@
-## 🌌 Hi my name is Darren !😄
-### Welcome to my github page 
+## Hi my name is Darren !😄
+### Welcome to my github page 🌌 
 
  I am currently learning Quantum Computing autonomously with IBM Qiskit 👨‍💻
 
