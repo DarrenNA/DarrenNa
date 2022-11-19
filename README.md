@@ -41,7 +41,7 @@
 <h2 align="center"> Languages & Frameworks / Library </h2>
 <br>
 <p align="center">
-  <code><img title="Qiskit" height="25" src="img/langfr-220px-Qiskit-Logo.png"></code>
+  <code><img title="Qiskit" height="25" src="img/qiskit.png"></code>
   <code><img title="Python" height="25" src="img/python-original.svg"></code>
   <code><img title="C" height="25" src="img/c.svg"></code>
   <code><img title="C#" height="25" src="img/cSharp.svg"></code>
