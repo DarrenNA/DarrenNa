@@ -1,7 +1,17 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Hi+%2C+My+name+is+Darren+%F0%9F%98%84;Welcome+to+my+Github+page++!" alt="Typing SVG" /></a>
 </h1>
-### Welcome to my github page 🌌 
+<h2 align="center">
+ Welcome to my github page ! 🌌 
+ </h2>
+ 
+ <h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
  I am currently learning Quantum Computing autonomously with IBM Qiskit 👨‍💻
 
