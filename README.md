@@ -1,4 +1,5 @@
-### Hi my name is Darren !😄
+## 🌌 Hi my name is Darren !😄
+### Welcome to my github page 
 
 <!--
 **DarrenNA/DarrenNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- I am undergraduate developper student at EPSI engineer school in Bordeaux (Sophomore Year) 📚
+- I am currently learning quantum computing ! 👨‍💻
