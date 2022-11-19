@@ -1,8 +1,7 @@
 ## 🌌 Hi my name is Darren !😄
 ### Welcome to my github page 
 
-I am a second year Bachelor Conceptor, integrator Devops at EPSI Bordeaux. 📚
-Apart from that I am currently learning Quantum Computing autonomously with IBM Qiskit 👨‍💻
+ I am currently learning Quantum Computing autonomously with IBM Qiskit 👨‍💻
 
 **My Study Interest**:
 - Quantum Machine learning
