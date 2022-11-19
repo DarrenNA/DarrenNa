@@ -1,6 +1,27 @@
 ## 🌌 Hi my name is Darren !😄
 ### Welcome to my github page 
 
+I am a second year Bachelor Conceptor, integrator Devops at EPSI Bordeaux. 📚
+Apart from that I am currently learning Quantum Computing autonomously with IBM Qiskit 👨‍💻
+
+**My Study Interest**:
+- Quantum Machine learning
+- Quantum Optimization
+- Oriented Object programmation ( python and C )
+- Classical Machine learning 
+- Quantum Mechanics
+- Linear algebra
+
+ **I am open to**:
+
+- Any collobration work,
+- Machine learning projects(Classical or Quantum),
+- research internships and apprenticeship
+
+
+
+
+
 <!--
 **DarrenNA/DarrenNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am undergraduate developper student at EPSI engineer school in Bordeaux (Sophomore Year) 📚
-- I am currently learning quantum computing ! 👨‍💻
+
+
