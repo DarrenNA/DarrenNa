@@ -34,7 +34,7 @@
   <br>
   - Any collobration work,
   - Machine learning projects(Classical or Quantum),
-  - research internships and apprenticeship
+  - research internships and apprenticeships
 </p>
 
 
