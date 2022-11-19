@@ -11,21 +11,32 @@
   
 </h5>
 
- I am currently learning Quantum Computing autonomously with IBM Qiskit 👨‍💻
+<p align="center">
 
-**My Study Interest**:
-- Quantum Machine learning
-- Quantum Optimization
-- Oriented Object programmation ( python and C )
-- Classical Machine learning 
-- Quantum Mechanics
-- Linear algebra
+  💻 I love writing code and learn anything about it
+  <br>
+  👨‍💻I am currently learning Quantum Computing autonomously with IBM Qiskit 
+  <br>
+  📫 How to reach me : <a href="mailto: darrenndouongo@gmail.com">darrenndouongo@gmail.com</a>
+  <br>
+ 
+  📚 My Study Interest :
+  <br>
+  - Quantum Machine learning
+  - Quantum Optimization
+  - Oriented Object programmation ( python and C )
+  - Classical Machine learning 
+  - Quantum Mechanics
+  - Linear algebra
+  <br>
+ 
+  🎓 I am open to :
+  <br>
+  - Any collobration work,
+  - Machine learning projects(Classical or Quantum),
+  - research internships and apprenticeship
+</p>
 
- **I am open to**:
-
-- Any collobration work,
-- Machine learning projects(Classical or Quantum),
-- research internships and apprenticeship
 
 
 
