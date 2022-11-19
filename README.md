@@ -1,4 +1,8 @@
-## Hi my name is Darren !😄
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+;+My+name+is+Darren !+😄;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 ### Welcome to my github page 🌌 
 
  I am currently learning Quantum Computing autonomously with IBM Qiskit 👨‍💻
