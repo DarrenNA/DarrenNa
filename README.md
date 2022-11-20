@@ -24,7 +24,7 @@
   <br>
   - Quantum Machine learning
   - Quantum Optimization
-  - Oriented Object programmation ( python and C )
+  - Oriented Object programmation 
   - Classical Machine learning 
   - Quantum Mechanics
   - Linear algebra
